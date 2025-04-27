@@ -35,19 +35,19 @@ Monthly trend graphs
 Interactive filters for accident severity
 
 📈 Dashboard Highlights
-Total Accidents & Casualties:
+>Total Accidents & Casualties:
 Quickly understand the scale of incidents with percentage change indicators.
 
-Casualty Analysis:
+>Casualty Analysis:
 View fatal and serious casualties separately with time trends.
 
-Location Mapping:
+>Location Mapping:
 Geographical accident clustering using map visuals.
 
-Weather & Surface Impact:
+>Weather & Surface Impact:
 Visualizations showing the effect of rain, fog, and road surface on accidents.
 
-Vehicle Type Analysis:
+>Vehicle Type Analysis:
 Understand how accident counts differ between cars, motorcycles, buses, and others.
 
 🛠️ Tools Used
