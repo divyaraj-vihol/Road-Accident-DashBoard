@@ -73,6 +73,12 @@ Download the Tableau dashboard file (.twbx) if available.
 Open it with Tableau to explore or customize the dashboard.
 
 Watch the demo video for a guided walkthrough.
+#tableau
+#road-accidents
+#dashboard
+#data-visualization
+#analytics
+
 
 📢 Future Improvements
 Add predictive analytics (forecasting accident trends).
